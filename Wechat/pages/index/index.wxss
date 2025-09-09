@@ -1,0 +1,21 @@
+button{
+  margin:25px;
+  font-size:10px;
+  width:80%;
+}
+.text{
+  height: 100rpx;
+  font-size:small;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
+.temp{
+  background-color: salmon;
+  color: white;
+}
+.wet{
+  background-color: skyblue;
+  color: white;
+}

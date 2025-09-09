@@ -1,0 +1,5 @@
+<button class="weui-btn" type="primary" size="mini"  bindtap="onClickOpen">开灯</button>
+<button type="warn" size="mini"  bindtap="onClickOff">关灯</button>
+<button class="wet" size="mini" bindtap="onClickWet">湿度：{{Wet}}</button>
+<button class="temp" size="mini" bindtap="onClickTemp">温度：{{Temp}}℃</button>
+ <view  class="text">湿度{{LightSwitch}}℃</view>
