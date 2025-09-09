@@ -1,0 +1,10 @@
+.\obj\iconv.o: Public\iconv.c
+.\obj\iconv.o: Public\config.h
+.\obj\iconv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\obj\iconv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\iconv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\iconv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\iconv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\iconv.o: .\Public\iconv.h
+.\obj\iconv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\obj\iconv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\locale.h
